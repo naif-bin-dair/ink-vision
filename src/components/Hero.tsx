@@ -50,7 +50,7 @@ const Hero = () => {
               className="flex flex-col sm:flex-row gap-4 animate-fade-in"
               style={{ animationDelay: "0.4s" }}
             >
-              <a href="https://naifbindair.github.io/InkVision/program">
+              <a href="https://naif-bin-dair.github.io/ink-vision/program">
                 <Button
                   size="lg"
                   variant="outline"

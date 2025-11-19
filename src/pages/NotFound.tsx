@@ -19,7 +19,7 @@ const NotFound = () => {
           Oops! Page not found
         </p>
         <a
-          href="https://naifbindair.github.io/InkVision/"
+          href="https://naif-bin-dair.github.io/ink-vision/"
           className="text-primary underline hover:text-primary/90"
         >
           Return to Home

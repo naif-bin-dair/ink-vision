@@ -18,11 +18,11 @@ const App = () => (
       <BrowserRouter>
         <Routes>
           <Route
-            path="https://naifbindair.github.io/InkVision/"
+            path="https://naif-bin-dair.github.io/ink-vision/"
             element={<Index />}
           />
           <Route
-            path="https://naifbindair.github.io/InkVision/program"
+            path="https://naif-bin-dair.github.io/ink-vision/program"
             element={<Program />}
           />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}

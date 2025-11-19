@@ -34,7 +34,7 @@ const UploadWidget = () => {
     <div>
       <div className="flex items-center gap-2 m-7">
         <a
-          href="https://naifbindair.github.io/InkVision/"
+          href="https://naif-bin-dair.github.io/ink-vision/"
           className="flex items-center justify-center"
         >
           <img src={logo} alt="logo" width="30" height="30" className="m-1" />
